@@ -1,1 +1,1 @@
-This is a C language program which is made to play with matrices. It provides various operations which can be performend on it.
+This is a C language program in which you can generate a customized matrix and perform operations on it.
